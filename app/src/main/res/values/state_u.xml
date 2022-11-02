@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="state_u">
+        <item>全部</item>
+        <item>未处理</item>
+        <item>进行中</item>
+        <item>待评价</item>
+        <item>已完成</item>
+    </string-array>
+</resources>

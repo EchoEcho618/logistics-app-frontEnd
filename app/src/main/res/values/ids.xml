@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edit_text_1" type="id"/>
+    <item name="edit_text_2" type="id"/>
+    <item name="edit_text_3" type="id"/>
+    <item name="edit_text_4" type="id"/>
+    <item name="edit_text_5" type="id"/>
+    <item name="edit_text_6" type="id"/>
+    <item name="edit_text_7" type="id"/>
+    <item name="edit_text_8" type="id"/>
+    <item name="edit_text_9" type="id"/>
+    <item name="spinner_1" type="id"/>
+    <item name="spinner_2" type="id"/>
+    <item name="spinner_3" type="id"/>
+    <item name="spinner_4" type="id"/>
+    <item name="spinner_5" type="id"/>
+    <item name="rating_bar_1" type="id"/>
+    <item name="rating_bar_2" type="id"/>
+    <item name="rating_bar_3" type="id"/>
+</resources>

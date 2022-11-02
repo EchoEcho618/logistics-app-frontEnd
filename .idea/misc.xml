@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable-v24/divider.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/border.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/bottom_button.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/divider.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/left_button.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/linear.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/mid_button.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/rectangle.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/right_button.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/drawable/right_top_button.xml" value="0.1735" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/add.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/admin_main.xml" value="0.2" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/blank_layout.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/edit_info.xml" value="0.2" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/edit_pwd.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/evaluate.xml" value="0.2" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/info.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/login.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/main.xml" value="0.264" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/manage.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/mine.xml" value="0.264" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/new_list.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/register.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/repair_info.xml" value="0.264" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/simple_spinner_item.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/support_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/layout/user_main.xml" value="0.2" />
+        <entry key="..\:/Code/WorkSpace/Baoxiu/app/src/main/res/menu/menu.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

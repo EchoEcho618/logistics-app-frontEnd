@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.itcast.baoxiu">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Baoxiu"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Register"
+            android:label="注册"/>
+        <activity android:name=".Main"
+            android:label="主页"/>
+        <activity android:name=".Mine"
+            android:label="我的"/>
+        <activity android:name=".Info"
+            android:label="详细信息"/>
+        <activity android:name=".EditInfo"
+            android:label="修改信息"/>
+        <activity android:name=".EditPWD"
+            android:label="修改密码"/>
+        <activity android:name=".Add"
+            android:label="添加"/>
+        <activity android:name=".New"
+            android:label="新报修单"/>
+        <activity android:name=".Manage"
+            android:label="管理"/>
+        <activity android:name=".Evaluate"
+            android:label="评价"/>
+    </application>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
